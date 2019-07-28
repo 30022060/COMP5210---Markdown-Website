@@ -11,3 +11,4 @@ The Waihi Kids Football Sports Club (WKFSC) is a club dedicated to help children
 * Wanting to improve their football skills
 * Interested in taking Football as a sport
 
+[SportWaikato Website](https://www.sportwaikato.org.nz/directory/waihi-afc-football-club.aspx)
