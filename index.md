@@ -1,6 +1,6 @@
 # Waihi Kids Soccer Sports Club
 
-[logo] https://github.com/30022060/COMP5210-30022060.git/images.jpg
+![alt text](https://github.com/30022060/COMP5210-30022060.git/images.jpg "Logo Title Text 1")
 
 ## What is the Waihi Kids Soccer Sports Club?
 
