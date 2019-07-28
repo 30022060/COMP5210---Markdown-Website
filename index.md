@@ -1,4 +1,6 @@
 # Waihi Kids Soccer Sports Club
-This is a website for the Waihi Kid's Soccer Sports Club.
-* 
-* 
+## What is the Waihi Kids Soccer Sports Club?
+
+The Waihi Kids Soccer Sports Club (WKSSC) is a club dedicated to help children improve their soccer skills.
+
+
