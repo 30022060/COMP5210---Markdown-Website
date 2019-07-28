@@ -1,5 +1,5 @@
-# ![soccer](soccerkid.jpg "soccerkid") Waihi Kids Soccer Sports Club
-
+# Waihi Kids Soccer Sports Club
+![soccer](soccerkid.jpg "soccerkid")
 ## What is the Waihi Kids Soccer Sports Club?
 
 The Waihi Kids Soccer Sports Club (WKSSC) is a club dedicated to help children improve their soccer skills.
