@@ -1,6 +1,6 @@
 # Waihi Kids Soccer Sports Club
 
-![alt text](images/soccer kid.jpg "Soccer Kid")
+![Soccer](images/soccer kid.jpg)
 
 ## What is the Waihi Kids Soccer Sports Club?
 
