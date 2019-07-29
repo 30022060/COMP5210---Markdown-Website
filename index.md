@@ -1,5 +1,5 @@
 # Waihi Kids Football Sports Club
-![soccer](soccerkid.jpg "soccerid")
+![soccer](socckid.jpg "soccerid")
 ## What is the Waihi Kids Football Sports Club?
 
 The Waihi Kids Football Sports Club (WKFSC) is a club dedicated to help children improve their Football skills.
