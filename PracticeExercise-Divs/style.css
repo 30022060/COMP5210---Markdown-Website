@@ -1,0 +1,16 @@
+.top{
+    background-color: yellow;
+    width: 50%;
+    padding: 200px;
+}
+.bottom1{
+    background-color: royalblue;
+    width: 50%;
+        padding: 200px;
+    margin-top: 20%;
+}
+.bottom2{
+    background-color: yellow;
+     width: 50%;
+     padding: 200px;
+}
