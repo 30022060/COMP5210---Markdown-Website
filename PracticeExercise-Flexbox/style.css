@@ -1,0 +1,74 @@
+
+.header{
+    background-color:darkorange;
+    padding: 30px;
+    text-align: center;
+    color: white;
+    font-family: 'Cantora One';font-size: 22px;
+}
+.links{
+    font-family:monospace;
+    font-size: 22px;
+    display: flex;
+    text-align: center;
+}
+.links a {
+    color: white;
+    padding: 15px;
+    background-color: black;
+    text-decoration: none;
+    text-align: center;
+    width: 19%;
+}
+.links a:hover {
+    
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.left {
+    flex: 20%;
+    background-color: darkgray;
+    padding: 20px;
+    padding-bottom: 10%;
+    text-align: center;
+}
+
+.middle {
+flex: 40%;
+    text-align: center;
+    padding-bottom: 10%;
+}
+
+.otherleft {
+    flex: 20%;
+    background-color: darkgray;
+    padding 20px;
+    padding-bottom: 10%;
+    text-align: center;
+}
+
+.jones {
+    border: 10px solid darkorange;
+    width: 40%;
+    margin-left: 130px;
+}
+
+.flexbox {
+  display: flex;
+  background-color: darkorange;
+  
+}
+
+.flexbox > div {
+  background-color: #f1f1f1;
+  width: 90px;
+  margin: 5px;
+  text-align: center;
+  line-height: 70px;
+  font-size: 50px;
+  align-items: center;
+}
